@@ -12,9 +12,9 @@ If the player goes outside the dark red area, player loses all points and the ga
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/Tricky-Corner/blob/main/Picture.png" width="auto">
+<img src="https://github.com/muratkrdl/Tricky-Corner/blob/main/Picture.png" width="450">
 
-<img src="https://github.com/muratkrdl/Tricky-Corner/blob/main/Tricky%20Corner.gif" width="auto">
+<img src="https://github.com/muratkrdl/Tricky-Corner/blob/main/Tricky%20Corner.gif" width="600">
 
 ## Authors
 
